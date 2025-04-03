@@ -23,6 +23,7 @@ python script.py
 Replace `script.py` with the filename containing the Flet code.
 
 ## Code Explanation
+
 ### UI Components
 - **`Container`**: Holds all form elements and defines the layout.
 - **`Text`**: Displays the title "Sign Up".
