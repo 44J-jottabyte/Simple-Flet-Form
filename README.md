@@ -29,9 +29,6 @@ Replace `script.py` with the filename containing the Flet code.
 - **`TextField`**: Input fields for user details.
 - **`Button`**: Triggers the form submission.
 
-### Event Handling
-The `form_submit_function` prints "form submitted!" when the submit button is clicked.
-
 ### Window Configuration
 - The app window is set to `600x500` pixels.
 - Background color is `#e6e6eb`.
